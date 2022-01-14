@@ -1,6 +1,8 @@
-# horoscopes
+# HOROSCOPES APP
 
-A new Flutter project.
+A new Flutter project with json data and Future Builder.
+
+![horoscope_gif1](https://user-images.githubusercontent.com/70916991/149577124-b7a0e24c-622c-4d46-9457-2d4b0bfaede3.gif)
 
 ## Getting Started
 

@@ -6,6 +6,8 @@ class HoroscopeDetail extends StatelessWidget {
 
   final Horoscope horoscope;
 
+  
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
